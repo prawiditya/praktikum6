@@ -187,4 +187,5 @@ while True:
     else:
         print("Pilihan tidak valid!")
 ````
-![Screenshot 2024-12-01 214848](https://github.com/user-attachments/assets/23572955-b5ee-4ccc-885a-349afe08a9eb)
+![Screenshot 2024-12-01 221016](https://github.com/user-attachments/assets/5382d798-dd76-43be-a3c5-5be2fd6a77a8)
+
